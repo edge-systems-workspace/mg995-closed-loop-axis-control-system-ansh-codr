@@ -1,4 +1,5 @@
 #include <Arduino.h>
+#include <Servo.h>
 
 /**
  * @file main.cpp
@@ -6,6 +7,8 @@
  * @author ansh-codr
  * @date 2026-02-21
  */
+
+Servo myServo;
 
 void setup() {
 }
