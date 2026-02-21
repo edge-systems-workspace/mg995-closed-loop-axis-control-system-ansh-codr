@@ -1,9 +1,14 @@
 #include <Arduino.h>
+
+/**
+ * @file main.cpp
+ * @brief Simple servo sweep demonstration
+ * @author ansh-codr
+ * @date 2026-02-21
+ */
+
 void setup() {
-// write your initialization code here
 }
 
-
 void loop() {
-// write your code here
 }
